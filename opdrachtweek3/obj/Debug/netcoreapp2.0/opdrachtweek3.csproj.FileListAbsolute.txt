@@ -1,0 +1,10 @@
+/Users/yannick/Code/1718-csse-code/opdrachtweek3/obj/Debug/netcoreapp2.0/opdrachtweek3.csproj.CoreCompileInputs.cache
+/Users/yannick/Code/1718-csse-code/opdrachtweek3/obj/Debug/netcoreapp2.0/opdrachtweek3.AssemblyInfoInputs.cache
+/Users/yannick/Code/1718-csse-code/opdrachtweek3/obj/Debug/netcoreapp2.0/opdrachtweek3.AssemblyInfo.cs
+/Users/yannick/Code/1718-csse-code/opdrachtweek3/bin/Debug/netcoreapp2.0/opdrachtweek3.deps.json
+/Users/yannick/Code/1718-csse-code/opdrachtweek3/bin/Debug/netcoreapp2.0/opdrachtweek3.runtimeconfig.json
+/Users/yannick/Code/1718-csse-code/opdrachtweek3/bin/Debug/netcoreapp2.0/opdrachtweek3.runtimeconfig.dev.json
+/Users/yannick/Code/1718-csse-code/opdrachtweek3/bin/Debug/netcoreapp2.0/opdrachtweek3.dll
+/Users/yannick/Code/1718-csse-code/opdrachtweek3/bin/Debug/netcoreapp2.0/opdrachtweek3.pdb
+/Users/yannick/Code/1718-csse-code/opdrachtweek3/obj/Debug/netcoreapp2.0/opdrachtweek3.dll
+/Users/yannick/Code/1718-csse-code/opdrachtweek3/obj/Debug/netcoreapp2.0/opdrachtweek3.pdb
